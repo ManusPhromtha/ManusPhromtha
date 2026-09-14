@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/ManusPhromtha/ManusPhromtha/snake-output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/ManusPhromtha/ManusPhromtha/blob/output/github-snake-dark.svg)
 
 ###
